@@ -73,6 +73,7 @@ footer {
   main {
     width: 100%;
     display: block;
+    margin: 50px 5%;
   }
   .step-box {
     width: 90%;
